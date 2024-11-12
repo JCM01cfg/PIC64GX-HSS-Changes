@@ -2,7 +2,7 @@
 
 Josh Muniga
 November 11 2024
-
+Texas State University 
 The purpose of this repository is to track the changes made 
 to the pic64gx1000 HSS files to get the debugger up and running on the 
 pic64gx1000 Curiosity Kit.
