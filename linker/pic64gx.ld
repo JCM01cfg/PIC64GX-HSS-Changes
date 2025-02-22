@@ -1,3 +1,4 @@
+#Written by: Josh Muniga
 MEMORY
 {
     FLASH (rx) : ORIGIN = 0x20220000, LENGTH = 128K    /* Adjust to your flash start and size */
